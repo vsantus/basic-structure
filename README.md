@@ -10,7 +10,6 @@ Ideal para iniciar rapidamente projetos com uma organização padrão.
 
 ### Execute o comando abaixo dentro do diretório do seu novo projeto:
 
-### >Adaptar para o seu Github
 ### Usando **pnpm**
 ```sh
-pnpm dlx github:SEU_USUARIO/NOME_DO_REPO create-structure
+pnpm dlx https://github.com/vsantus/basic-structure create-structure
