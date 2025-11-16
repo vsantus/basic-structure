@@ -25,4 +25,5 @@ src/
 
 ### Usando **pnpm**
 ```sh
-pnpm dlx https://github.com/vsantus/basic-structure create-structure
+pnpm dlx github:vsantus/basic-structure create-structure
+
