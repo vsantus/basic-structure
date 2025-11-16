@@ -5,9 +5,9 @@ const folders = [
   "src/components/layout",
   "src/components/ui",
   "src/services",
+  "src/store",
   "src/hooks",
   "src/lib",
-  "src/store",
   "src/types",
 ];
 

@@ -4,6 +4,19 @@ Um CLI simples para criar automaticamente uma estrutura básica de pastas para n
 
 Ideal para iniciar rapidamente projetos com uma organização padrão.
 
+```sh
+src/
+├── app/
+├── components/
+│   └── layout/ 
+│   └── ui/
+├── services/
+├── store/
+├── hooks/
+├── lib/
+├── types/
+├── styles/
+```
 ---
 
 ## 🚀 Como usar
