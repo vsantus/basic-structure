@@ -2,11 +2,12 @@ import { mkdirSync, existsSync } from "fs";
 
 const folders = [
   "src/components",
+  "src/components/layout",
   "src/components/ui",
   "src/services",
-  "src/store",
   "src/hooks",
   "src/lib",
+  "src/store",
   "src/types",
 ];
 
@@ -19,4 +20,4 @@ folders.forEach((folder) => {
   }
 });
 
-console.log("\n🎉 Project structure created successfully!\n");
+console.log("\n Project structure created successfully! Thank Vsantos.. 🎉\n");
