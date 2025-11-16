@@ -20,4 +20,4 @@ folders.forEach((folder) => {
   }
 });
 
-console.log("\n Project structure created successfully! Thank Vsantos.. 🎉\n");
+console.log("\n Project structure created successfully! Thank Vsantos 🎉\n");
