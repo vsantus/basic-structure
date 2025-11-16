@@ -1,0 +1,8 @@
+{
+  "name": "create-structure",
+  "version": "1.0.0",
+  "bin": {
+    "create-structure": "structure.mjs"
+  },
+  "type": "module"
+}
